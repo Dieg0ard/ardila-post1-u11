@@ -101,11 +101,4 @@ ardila-post1-u11/
 
 ---
 
-## Historial de Commits
-
-```
-init: estructura inicial del proyecto CUDA
-feat: kernel vectorAdd con benchmark CPU vs GPU
-feat: matMul con tiling shared memory y benchmark comparativo
-docs: README completo con tablas de resultados y análisis
 ```
