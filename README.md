@@ -14,7 +14,7 @@ Arquitectura de Computadores — Unidad 11
 | CUDA Version | 12.2 |
 | Driver | 535.86 |
 | Compute Capability | 8.6 |
-| Sistema Operativo | Ubuntu 22.04 LTS |
+| Sistema Operativo | Fedora Linux 43 (KDE Plasma Desktop Edition) |
 | Compilador | nvcc 12.2 / gcc 11.4 |
 
 > Verificado con `nvidia-smi` y `nvcc --version`
